@@ -1,0 +1,13 @@
+http:
+  host: 127.0.0.1
+  port: 8080
+rpc:
+  host: 127.0.0.1
+  port: 8888
+mysql:
+  user: root
+  pass: root
+  host: 127.0.0.1
+  port: 3306
+  dbname: workspace
+  charset: utf8mb4
